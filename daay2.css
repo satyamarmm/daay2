@@ -27,13 +27,16 @@ body{
     background-position: top left;
 }
 #i2{
+    object-fit: contain;
+    border: 3px black;
+    box-shadow: 5px 4px 5px blue;
     background-position: top left;
 }
 #d1{
-    background-color:red;
-    width: 20vw;
+    background: linear-gradient(red,pink, yellow,green);
+    width: 30vw;
     word-spacing: 10px; 
     letter-spacing: 8px;
     text-wrap: wrap;
-    box-shadow: 5px 9px  green;
+    box-shadow: 5px 9px 5px orange;
 }
