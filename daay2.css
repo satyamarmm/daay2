@@ -1,0 +1,39 @@
+body{
+    background: url("https://www.wwe.com/f/styles/og_image/public/all/2024/01/Fast_10072023RF_52583--7640f0c55ed8655dfceeb8f3d0a2c7b3.JPG");
+    background-size: cover;
+    
+}
+#d2{
+    background-color: violet;
+    font-weight: 100px;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.p1{
+    color: white;
+    text-align: right;
+    text-shadow: 8px 3px  red;
+    text-decoration: underline;
+   
+}
+.p2{
+    color: greenyellow;
+    text-shadow: 25px  3px green;
+    text-transform: uppercase;
+    text-decoration-line: overline;
+    
+}
+#i1{
+    background-position: top left;
+}
+#i2{
+    background-position: top left;
+}
+#d1{
+    background-color:red;
+    width: 20vw;
+    word-spacing: 10px; 
+    letter-spacing: 8px;
+    text-wrap: wrap;
+    box-shadow: 5px 9px  green;
+}
